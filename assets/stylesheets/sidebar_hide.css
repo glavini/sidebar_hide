@@ -33,6 +33,10 @@
   z-index:0;
 }
 
+div #content {
+  margin-right: 14px;
+}
+
 #sidebar {
   z-index:12;
 }
